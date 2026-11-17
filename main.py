@@ -16,7 +16,7 @@ TEXT = "\n".join(
         "The rain stopped an hour ago, and the garden is still deciding whether to drip.",
         "A frog tries one note, then another, as if tuning an instrument it only half remembers.",
         "On the veranda the tiles are still warm from the day, and the air smells of wet earth and cut grass.",
-        "Down the road, a bicycle bell rings once, faint and far away, and the road settles back into quiet.",
+        "Far down the road, a bicycle bell sounds once, soft and slow, and the sound drifts away until the road is quiet again.",
         "The light is going amber and low. The clouds have stopped moving in any direction that matters, and the evening will take as long as it takes.",
         "The hour, for once, is in no hurry to become the next one.",
     ]
